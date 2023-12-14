@@ -16,7 +16,7 @@ namespace FermatTheorem
         {
             if (n <= 2)
             {
-                return false;
+                false;
             }
 
             int lhs = (int)Math.Pow(a, n) + (int)Math.Pow(b, n);
