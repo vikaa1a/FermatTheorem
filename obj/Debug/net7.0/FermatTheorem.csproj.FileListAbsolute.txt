@@ -1,0 +1,15 @@
+L:\ПИ\Задание 7\FermatTheorem\bin\Debug\net7.0\FermatTheorem.exe
+L:\ПИ\Задание 7\FermatTheorem\bin\Debug\net7.0\FermatTheorem.deps.json
+L:\ПИ\Задание 7\FermatTheorem\bin\Debug\net7.0\FermatTheorem.runtimeconfig.json
+L:\ПИ\Задание 7\FermatTheorem\bin\Debug\net7.0\FermatTheorem.dll
+L:\ПИ\Задание 7\FermatTheorem\bin\Debug\net7.0\FermatTheorem.pdb
+L:\ПИ\Задание 7\FermatTheorem\obj\Debug\net7.0\FermatTheorem.csproj.AssemblyReference.cache
+L:\ПИ\Задание 7\FermatTheorem\obj\Debug\net7.0\FermatTheorem.GeneratedMSBuildEditorConfig.editorconfig
+L:\ПИ\Задание 7\FermatTheorem\obj\Debug\net7.0\FermatTheorem.AssemblyInfoInputs.cache
+L:\ПИ\Задание 7\FermatTheorem\obj\Debug\net7.0\FermatTheorem.AssemblyInfo.cs
+L:\ПИ\Задание 7\FermatTheorem\obj\Debug\net7.0\FermatTheorem.csproj.CoreCompileInputs.cache
+L:\ПИ\Задание 7\FermatTheorem\obj\Debug\net7.0\FermatTheorem.dll
+L:\ПИ\Задание 7\FermatTheorem\obj\Debug\net7.0\refint\FermatTheorem.dll
+L:\ПИ\Задание 7\FermatTheorem\obj\Debug\net7.0\FermatTheorem.pdb
+L:\ПИ\Задание 7\FermatTheorem\obj\Debug\net7.0\FermatTheorem.genruntimeconfig.cache
+L:\ПИ\Задание 7\FermatTheorem\obj\Debug\net7.0\ref\FermatTheorem.dll
