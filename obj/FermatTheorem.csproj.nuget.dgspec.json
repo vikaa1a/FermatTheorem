@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "L:\\ПИ\\Задание 7\\FermatTheorem\\FermatTheorem.csproj": {}
+    "C:\\Users\\vika\\source\\repos\\FermatTheorem\\FermatTheorem.csproj": {}
   },
   "projects": {
-    "L:\\ПИ\\Задание 7\\FermatTheorem\\FermatTheorem.csproj": {
+    "C:\\Users\\vika\\source\\repos\\FermatTheorem\\FermatTheorem.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "L:\\ПИ\\Задание 7\\FermatTheorem\\FermatTheorem.csproj",
+        "projectUniqueName": "C:\\Users\\vika\\source\\repos\\FermatTheorem\\FermatTheorem.csproj",
         "projectName": "FermatTheorem",
-        "projectPath": "L:\\ПИ\\Задание 7\\FermatTheorem\\FermatTheorem.csproj",
-        "packagesPath": "C:\\Users\\lizam\\.nuget\\packages\\",
-        "outputPath": "L:\\ПИ\\Задание 7\\FermatTheorem\\obj\\",
+        "projectPath": "C:\\Users\\vika\\source\\repos\\FermatTheorem\\FermatTheorem.csproj",
+        "packagesPath": "C:\\Users\\vika\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\vika\\source\\repos\\FermatTheorem\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\lizam\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\vika\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -55,7 +59,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files (x86)\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     }

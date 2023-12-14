@@ -2,7 +2,7 @@
 
 namespace FermatTheorem
 {
-    class Program
+    public class Program
     {
         /// <summary>
         /// Функция позволяет проверить, что Великая теорема Ферма выполняется для определенного диапазона значений.
@@ -12,11 +12,11 @@ namespace FermatTheorem
         /// <param name="c"></param>
         /// <param name="n"></param>
         /// <returns></returns>
-        static bool CheckFermatTheorem(int a, int b, int c, int n)
+        public static bool CheckFermatTheorem(int a, int b, int c, int n)
         {
             if (n <= 2)
             {
-                false;
+                return false;
             }
 
             int lhs = (int)Math.Pow(a, n) + (int)Math.Pow(b, n);
