@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "sG7p+KE1Qux5anFsZbxeDjRuRZE9EjHC/Z9xkBlnZMoEyGvL4id5GZxvQ296pYHNBOF6G0OjiS3aOYmTYNpsNg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\vika\\Documents\\GitHub\\FermatTheorem\\FermatTheorem\\FermatTheorem.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vika\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.16\\microsoft.windowsdesktop.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\vika\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.16\\microsoft.netcore.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\vika\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.16\\microsoft.aspnetcore.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\vika\\.nuget\\packages\\microsoft.netcore.app.host.win-x86\\6.0.16\\microsoft.netcore.app.host.win-x86.6.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}
